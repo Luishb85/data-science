@@ -26,7 +26,6 @@ Content is organized by Machine Learning paradigm/technique, allowing direct nav
 
 A complete multiple linear regression project covering the full data science lifecycle: data cleaning, exploratory data analysis, feature engineering, variable selection (VIF, significance testing, Random Forest), and residual diagnostics.
 
-**Result:** R² ≈ 0.486 | RMSE ≈ 0.498 (log scale), cross-validated with Lasso, Ridge, and Elastic Net.
 
 ---
 
@@ -36,6 +35,6 @@ Python · pandas · NumPy · scikit-learn · statsmodels · seaborn · matplotli
 
 ## 🎓 Context
 
-Maintained as part of my MBA in Data Science, AI & Analytics (USP ESALQ), combining my background in the financial sector with hands-on data tooling.
+Maintained as part of my post-degree in Data Science, combining my background in the financial sector with hands-on data tooling.
 
 

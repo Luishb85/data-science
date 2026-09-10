@@ -38,6 +38,4 @@ Python · pandas · NumPy · scikit-learn · statsmodels · seaborn · matplotli
 
 Maintained as part of my MBA in Data Science, AI & Analytics (USP ESALQ), combining my background in the financial sector with hands-on data tooling.
 
----
 
-📫 [LinkedIn](#) — feel free to reach out or suggest improvements.

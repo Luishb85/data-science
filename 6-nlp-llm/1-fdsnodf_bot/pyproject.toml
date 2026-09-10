@@ -1,0 +1,16 @@
+[project]
+name = "openrouter-agno"
+version = "0.1.0"
+description = "Testes com agno + OpenRouter"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "agno[websearch]>=2.6.12",
+    "openai>=1.0.0",
+    "ddgs>=9.14.4",
+    "python-dotenv>=1.0.0",
+    "fastapi>=0.136.3",
+    "requests>=2.34.2",
+    "python-telegram-bot>=22.7",
+    "beautifulsoup4>=4.14.3",
+]

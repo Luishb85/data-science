@@ -1,0 +1,18 @@
+# --- Regras gerais (já devem existir) ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- Segredos e credenciais ---
+.env
+*.env
+.env.*
+
+# --- Logs ---
+*.log
+
+# --- Outputs gerados (mantendo espaço para exemplos versionados manualmente) ---
+**/output/
+!**/output/.gitkeep

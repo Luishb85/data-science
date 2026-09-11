@@ -20,3 +20,6 @@ __pycache__/
 # --- Large data files ---
 **/data/*.csv
 **/*.csv
+
+# Clustering project exclusions
+**/3-projeto-dsa/
